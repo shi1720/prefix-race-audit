@@ -1,0 +1,7 @@
+{
+  "baseline_reward": 0,
+  "suppression_effect": 1,
+  "physical_removal_effect": 0,
+  "bias": 1,
+  "explanation": "Surviving endpoint reward changes under launch removal; no censoring correction identifies the changed mechanism."
+}

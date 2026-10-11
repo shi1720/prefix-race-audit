@@ -1,0 +1,812 @@
+[
+  {
+    "dataset": "digits",
+    "environment": "exponential",
+    "method": "uniform",
+    "n": 540,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.001192592592592591,
+    "max_rmse": 0.02206611837743362,
+    "max_exact_sd": 0.02229924921998573,
+    "complete_case_max_abs_bias": 0.03039824665948458,
+    "coverage_min": 0.41,
+    "coverage_mean": 0.8424878048780489,
+    "realized_extra_mean": 0.5013777777777778
+  },
+  {
+    "dataset": "digits",
+    "environment": "exponential",
+    "method": "geometric",
+    "n": 540,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.0018050636584699983,
+    "max_rmse": 0.023983528062935702,
+    "max_exact_sd": 0.023972163438569824,
+    "complete_case_max_abs_bias": 0.02553790067959585,
+    "coverage_min": 0.702,
+    "coverage_mean": 0.8867804878048782,
+    "realized_extra_mean": 0.5007925925925926
+  },
+  {
+    "dataset": "digits",
+    "environment": "exponential",
+    "method": "exchangeable",
+    "n": 540,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0012547278027524042,
+    "max_rmse": 0.02067826613244571,
+    "max_exact_sd": 0.020431481880029266,
+    "complete_case_max_abs_bias": 0.028197190865712315,
+    "coverage_min": 0.546,
+    "coverage_mean": 0.877219512195122,
+    "realized_extra_mean": 0.5014444444444445
+  },
+  {
+    "dataset": "digits",
+    "environment": "exponential",
+    "method": "pilot",
+    "n": 540,
+    "q": [
+      0.22474487139158905,
+      0.13762756430420553,
+      0.1376275643042054
+    ],
+    "max_abs_bias": 0.0015878454649234475,
+    "max_rmse": 0.021573923155798,
+    "max_exact_sd": 0.02119676135184302,
+    "complete_case_max_abs_bias": 0.02893017835333227,
+    "coverage_min": 0.522,
+    "coverage_mean": 0.8677560975609755,
+    "realized_extra_mean": 0.5016814814814815
+  },
+  {
+    "dataset": "digits",
+    "environment": "exponential",
+    "method": "oracle",
+    "n": 540,
+    "q": [
+      0.2450451725791771,
+      0.17327310322776387,
+      0.08168172419305902
+    ],
+    "max_abs_bias": 0.0014246824323854571,
+    "max_rmse": 0.020370132630235165,
+    "max_exact_sd": 0.020360456425389056,
+    "complete_case_max_abs_bias": 0.027784625540920642,
+    "coverage_min": 0.572,
+    "coverage_mean": 0.8809756097560977,
+    "realized_extra_mean": 0.5013296296296297
+  },
+  {
+    "dataset": "digits",
+    "environment": "heterogeneous",
+    "method": "uniform",
+    "n": 540,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0018296296296296314,
+    "max_rmse": 0.02882566681302216,
+    "max_exact_sd": 0.02777777777777778,
+    "complete_case_max_abs_bias": 0.04817819163024383,
+    "coverage_min": 0.424,
+    "coverage_mean": 0.8383902439024391,
+    "realized_extra_mean": 0.5027111111111111
+  },
+  {
+    "dataset": "digits",
+    "environment": "heterogeneous",
+    "method": "geometric",
+    "n": 540,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.0015822386260996018,
+    "max_rmse": 0.039603919350559284,
+    "max_exact_sd": 0.037417713342940175,
+    "complete_case_max_abs_bias": 0.03944001617360253,
+    "coverage_min": 0.694,
+    "coverage_mean": 0.8814146341463415,
+    "realized_extra_mean": 0.5018259259259259
+  },
+  {
+    "dataset": "digits",
+    "environment": "heterogeneous",
+    "method": "exchangeable",
+    "n": 540,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0021318221619864818,
+    "max_rmse": 0.028520560136349748,
+    "max_exact_sd": 0.028246834769977865,
+    "complete_case_max_abs_bias": 0.04203168015003493,
+    "coverage_min": 0.568,
+    "coverage_mean": 0.884829268292683,
+    "realized_extra_mean": 0.5031555555555556
+  },
+  {
+    "dataset": "digits",
+    "environment": "heterogeneous",
+    "method": "pilot",
+    "n": 540,
+    "q": [
+      0.1798143509456096,
+      0.17888049906823275,
+      0.1413051499861576
+    ],
+    "max_abs_bias": 0.0017555235533806212,
+    "max_rmse": 0.02856232046088304,
+    "max_exact_sd": 0.02723927485158999,
+    "complete_case_max_abs_bias": 0.04702345039564668,
+    "coverage_min": 0.446,
+    "coverage_mean": 0.8395609756097561,
+    "realized_extra_mean": 0.5026111111111111
+  },
+  {
+    "dataset": "digits",
+    "environment": "heterogeneous",
+    "method": "oracle",
+    "n": 540,
+    "q": [
+      0.1917008750462404,
+      0.1759828087733953,
+      0.1323163161803642
+    ],
+    "max_abs_bias": 0.0020196880406354424,
+    "max_rmse": 0.028463538670704457,
+    "max_exact_sd": 0.027093392511076567,
+    "complete_case_max_abs_bias": 0.04604845431008048,
+    "coverage_min": 0.462,
+    "coverage_mean": 0.8484878048780486,
+    "realized_extra_mean": 0.5029518518518519
+  },
+  {
+    "dataset": "digits",
+    "environment": "correlated",
+    "method": "uniform",
+    "n": 540,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0009999999999999994,
+    "max_rmse": 0.031400331138547295,
+    "max_exact_sd": 0.03234120221587589,
+    "complete_case_max_abs_bias": 0.06445120149178894,
+    "coverage_min": 0.188,
+    "coverage_mean": 0.7958536585365854,
+    "realized_extra_mean": 0.4988222222222222
+  },
+  {
+    "dataset": "digits",
+    "environment": "correlated",
+    "method": "geometric",
+    "n": 540,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.001880735855341598,
+    "max_rmse": 0.03964150164320345,
+    "max_exact_sd": 0.03988012528625484,
+    "complete_case_max_abs_bias": 0.05207849909772136,
+    "coverage_min": 0.368,
+    "coverage_mean": 0.8501951219512196,
+    "realized_extra_mean": 0.4996888888888889
+  },
+  {
+    "dataset": "digits",
+    "environment": "correlated",
+    "method": "exchangeable",
+    "n": 540,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0017424845087079012,
+    "max_rmse": 0.03104971365046251,
+    "max_exact_sd": 0.031832030930634796,
+    "complete_case_max_abs_bias": 0.05739247070264271,
+    "coverage_min": 0.254,
+    "coverage_mean": 0.8284390243902438,
+    "realized_extra_mean": 0.4996814814814815
+  },
+  {
+    "dataset": "digits",
+    "environment": "correlated",
+    "method": "pilot",
+    "n": 540,
+    "q": [
+      0.17672144387520333,
+      0.17672144387520333,
+      0.14655711224959336
+    ],
+    "max_abs_bias": 0.001088194992895367,
+    "max_rmse": 0.030321105965459668,
+    "max_exact_sd": 0.0315991226731623,
+    "complete_case_max_abs_bias": 0.06306692781969384,
+    "coverage_min": 0.194,
+    "coverage_mean": 0.8042926829268292,
+    "realized_extra_mean": 0.4983592592592593
+  },
+  {
+    "dataset": "digits",
+    "environment": "correlated",
+    "method": "oracle",
+    "n": 540,
+    "q": [
+      0.19750832765338894,
+      0.18229193195674204,
+      0.12019974038986901
+    ],
+    "max_abs_bias": 0.000791439438168368,
+    "max_rmse": 0.030142181243254143,
+    "max_exact_sd": 0.031321444903841304,
+    "complete_case_max_abs_bias": 0.060357023351029805,
+    "coverage_min": 0.21,
+    "coverage_mean": 0.8127804878048782,
+    "realized_extra_mean": 0.49866666666666665
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "exponential",
+    "method": "uniform",
+    "n": 171,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0008654970760233918,
+    "max_rmse": 0.02593750199577419,
+    "max_exact_sd": 0.026152841842102804,
+    "complete_case_max_abs_bias": 0.008259441934287792,
+    "coverage_min": 0.154,
+    "coverage_mean": 0.5141951219512195,
+    "realized_extra_mean": 0.5012280701754386
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "exponential",
+    "method": "geometric",
+    "n": 171,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.0008169775349321582,
+    "max_rmse": 0.03480755446187879,
+    "max_exact_sd": 0.03472100956779456,
+    "complete_case_max_abs_bias": 0.007029978131179751,
+    "coverage_min": 0.044,
+    "coverage_mean": 0.614780487804878,
+    "realized_extra_mean": 0.5006198830409356
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "exponential",
+    "method": "exchangeable",
+    "n": 171,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.000966200101264027,
+    "max_rmse": 0.025712347625916634,
+    "max_exact_sd": 0.026675660898831083,
+    "complete_case_max_abs_bias": 0.007714746688321459,
+    "coverage_min": 0.094,
+    "coverage_mean": 0.5559999999999999,
+    "realized_extra_mean": 0.5004327485380117
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "exponential",
+    "method": "pilot",
+    "n": 171,
+    "q": [
+      0.23443555897198726,
+      0.13278222051400634,
+      0.13278222051400634
+    ],
+    "max_abs_bias": 0.0005629505763492161,
+    "max_rmse": 0.024955545075529263,
+    "max_exact_sd": 0.025885624253113356,
+    "complete_case_max_abs_bias": 0.007877140216561862,
+    "coverage_min": 0.12,
+    "coverage_mean": 0.5527804878048781,
+    "realized_extra_mean": 0.5015906432748538
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "exponential",
+    "method": "oracle",
+    "n": 171,
+    "q": [
+      0.20710678118654754,
+      0.14644660940672624,
+      0.14644660940672619
+    ],
+    "max_abs_bias": 0.0005768866639386111,
+    "max_rmse": 0.02503121053101338,
+    "max_exact_sd": 0.025700213180533567,
+    "complete_case_max_abs_bias": 0.00791350532102929,
+    "coverage_min": 0.132,
+    "coverage_mean": 0.5370243902439025,
+    "realized_extra_mean": 0.5014619883040936
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "heterogeneous",
+    "method": "uniform",
+    "n": 171,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0012631578947368421,
+    "max_rmse": 0.026163300887448723,
+    "max_exact_sd": 0.026152841842102804,
+    "complete_case_max_abs_bias": 0.008962276424033685,
+    "coverage_min": 0.156,
+    "coverage_mean": 0.4666341463414634,
+    "realized_extra_mean": 0.5030877192982456
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "heterogeneous",
+    "method": "geometric",
+    "n": 171,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.0016719983576506876,
+    "max_rmse": 0.0380134937569597,
+    "max_exact_sd": 0.03737940127105184,
+    "complete_case_max_abs_bias": 0.008844581815363982,
+    "coverage_min": 0.224,
+    "coverage_mean": 0.595219512195122,
+    "realized_extra_mean": 0.5013684210526316
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "heterogeneous",
+    "method": "exchangeable",
+    "n": 171,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0009715688035432567,
+    "max_rmse": 0.028560678921642595,
+    "max_exact_sd": 0.02777626746910197,
+    "complete_case_max_abs_bias": 0.007741404562497527,
+    "coverage_min": 0.236,
+    "coverage_mean": 0.5299024390243903,
+    "realized_extra_mean": 0.503812865497076
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "heterogeneous",
+    "method": "pilot",
+    "n": 171,
+    "q": [
+      0.2404228602426631,
+      0.15205676798783163,
+      0.10752037176950532
+    ],
+    "max_abs_bias": 0.0009834625960932011,
+    "max_rmse": 0.028377678247258835,
+    "max_exact_sd": 0.02780877542847274,
+    "complete_case_max_abs_bias": 0.007969275612758463,
+    "coverage_min": 0.238,
+    "coverage_mean": 0.5317073170731708,
+    "realized_extra_mean": 0.5035672514619883
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "heterogeneous",
+    "method": "oracle",
+    "n": 171,
+    "q": [
+      0.1775255128608411,
+      0.1775255128608411,
+      0.14494897427831777
+    ],
+    "max_abs_bias": 0.0012449696214629233,
+    "max_rmse": 0.026405129520925517,
+    "max_exact_sd": 0.026020407852533206,
+    "complete_case_max_abs_bias": 0.008752347567706577,
+    "coverage_min": 0.17,
+    "coverage_mean": 0.4797073170731707,
+    "realized_extra_mean": 0.5029941520467837
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "correlated",
+    "method": "uniform",
+    "n": 171,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0017777777777777776,
+    "max_rmse": 0.030771571965974357,
+    "max_exact_sd": 0.03203055891843077,
+    "complete_case_max_abs_bias": 0.012970883241844464,
+    "coverage_min": 0.166,
+    "coverage_mean": 0.5330243902439025,
+    "realized_extra_mean": 0.49442105263157893
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "correlated",
+    "method": "geometric",
+    "n": 171,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.002490347288091112,
+    "max_rmse": 0.04814142672816826,
+    "max_exact_sd": 0.04971388477330222,
+    "complete_case_max_abs_bias": 0.022013360817806943,
+    "coverage_min": 0.13,
+    "coverage_mean": 0.639268292682927,
+    "realized_extra_mean": 0.4974736842105263
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "correlated",
+    "method": "exchangeable",
+    "n": 171,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0015064285015934948,
+    "max_rmse": 0.03336567407703281,
+    "max_exact_sd": 0.035526619176181704,
+    "complete_case_max_abs_bias": 0.016668279287068336,
+    "coverage_min": 0.192,
+    "coverage_mean": 0.5769268292682926,
+    "realized_extra_mean": 0.4953801169590643
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "correlated",
+    "method": "pilot",
+    "n": 171,
+    "q": [
+      0.1798956588934736,
+      0.17923601990029672,
+      0.14086832120622958
+    ],
+    "max_abs_bias": 0.0015917875692875497,
+    "max_rmse": 0.03049419094618623,
+    "max_exact_sd": 0.032293275135694355,
+    "complete_case_max_abs_bias": 0.013712026258577615,
+    "coverage_min": 0.176,
+    "coverage_mean": 0.5428780487804877,
+    "realized_extra_mean": 0.49505263157894736
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "correlated",
+    "method": "oracle",
+    "n": 171,
+    "q": [
+      0.16666666666666669,
+      0.16666666666666669,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0017777777777777776,
+    "max_rmse": 0.030771571965974357,
+    "max_exact_sd": 0.03203055891843077,
+    "complete_case_max_abs_bias": 0.012970883241844464,
+    "coverage_min": 0.166,
+    "coverage_mean": 0.5330243902439025,
+    "realized_extra_mean": 0.49442105263157893
+  },
+  {
+    "dataset": "wine",
+    "environment": "exponential",
+    "method": "uniform",
+    "n": 54,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0025185185185185427,
+    "max_rmse": 0.05684913734622182,
+    "max_exact_sd": 0.05856069741052554,
+    "complete_case_max_abs_bias": 0.026724114482535873,
+    "coverage_min": 0.164,
+    "coverage_mean": 0.7799999999999999,
+    "realized_extra_mean": 0.5006666666666667
+  },
+  {
+    "dataset": "wine",
+    "environment": "exponential",
+    "method": "geometric",
+    "n": 54,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.0037413935855697866,
+    "max_rmse": 0.10501049828222322,
+    "max_exact_sd": 0.09407609557165375,
+    "complete_case_max_abs_bias": 0.02659930328788861,
+    "coverage_min": 0.328,
+    "coverage_mean": 0.8203902439024391,
+    "realized_extra_mean": 0.4998888888888889
+  },
+  {
+    "dataset": "wine",
+    "environment": "exponential",
+    "method": "exchangeable",
+    "n": 54,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0011255990405040232,
+    "max_rmse": 0.06745274486511803,
+    "max_exact_sd": 0.06571802227170903,
+    "complete_case_max_abs_bias": 0.0277307563441982,
+    "coverage_min": 0.222,
+    "coverage_mean": 0.7933658536585365,
+    "realized_extra_mean": 0.4985925925925926
+  },
+  {
+    "dataset": "wine",
+    "environment": "exponential",
+    "method": "pilot",
+    "n": 54,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0025185185185185427,
+    "max_rmse": 0.05684913734622182,
+    "max_exact_sd": 0.05856069741052554,
+    "complete_case_max_abs_bias": 0.026724114482535873,
+    "coverage_min": 0.164,
+    "coverage_mean": 0.7799999999999999,
+    "realized_extra_mean": 0.5006666666666667
+  },
+  {
+    "dataset": "wine",
+    "environment": "exponential",
+    "method": "oracle",
+    "n": 54,
+    "q": [
+      0.20710678118654757,
+      0.1464466094067262,
+      0.1464466094067262
+    ],
+    "max_abs_bias": 0.0016889690306871774,
+    "max_rmse": 0.05755444145376594,
+    "max_exact_sd": 0.05754718422333472,
+    "complete_case_max_abs_bias": 0.026557913489091187,
+    "coverage_min": 0.204,
+    "coverage_mean": 0.7897560975609756,
+    "realized_extra_mean": 0.5
+  },
+  {
+    "dataset": "wine",
+    "environment": "heterogeneous",
+    "method": "uniform",
+    "n": 54,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.001703703703703712,
+    "max_rmse": 0.042905453207628265,
+    "max_exact_sd": 0.041408666249996104,
+    "complete_case_max_abs_bias": 0.013731228138471966,
+    "coverage_min": 0.182,
+    "coverage_mean": 0.7805365853658537,
+    "realized_extra_mean": 0.49922222222222223
+  },
+  {
+    "dataset": "wine",
+    "environment": "heterogeneous",
+    "method": "geometric",
+    "n": 54,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.001000681123482002,
+    "max_rmse": 0.025323322179416023,
+    "max_exact_sd": 0.025657603323626266,
+    "complete_case_max_abs_bias": 0.010689634576367391,
+    "coverage_min": 0.324,
+    "coverage_mean": 0.8186341463414633,
+    "realized_extra_mean": 0.49733333333333335
+  },
+  {
+    "dataset": "wine",
+    "environment": "heterogeneous",
+    "method": "exchangeable",
+    "n": 54,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.0009114095470111825,
+    "max_rmse": 0.0338463456471275,
+    "max_exact_sd": 0.033285511701006076,
+    "complete_case_max_abs_bias": 0.012215636801999295,
+    "coverage_min": 0.248,
+    "coverage_mean": 0.7982439024390244,
+    "realized_extra_mean": 0.502
+  },
+  {
+    "dataset": "wine",
+    "environment": "heterogeneous",
+    "method": "pilot",
+    "n": 54,
+    "q": [
+      0.16666666777063316,
+      0.16666666777063316,
+      0.16666666445873363
+    ],
+    "max_abs_bias": 0.0017037035697557831,
+    "max_rmse": 0.0429054529185605,
+    "max_exact_sd": 0.041408666085426496,
+    "complete_case_max_abs_bias": 0.013731228138471966,
+    "coverage_min": 0.182,
+    "coverage_mean": 0.7805365853658537,
+    "realized_extra_mean": 0.49922222222222223
+  },
+  {
+    "dataset": "wine",
+    "environment": "heterogeneous",
+    "method": "oracle",
+    "n": 54,
+    "q": [
+      0.48999999999999994,
+      0.005,
+      0.005
+    ],
+    "max_abs_bias": 0.00015117157974301186,
+    "max_rmse": 0.018895691594859577,
+    "max_exact_sd": 0.018892667800377915,
+    "complete_case_max_abs_bias": 0.0073403991889808866,
+    "coverage_min": 0.494,
+    "coverage_mean": 0.8642439024390244,
+    "realized_extra_mean": 0.49644444444444447
+  },
+  {
+    "dataset": "wine",
+    "environment": "correlated",
+    "method": "uniform",
+    "n": 54,
+    "q": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "max_abs_bias": 0.0038518518518518797,
+    "max_rmse": 0.07025331394826378,
+    "max_exact_sd": 0.07172191381865586,
+    "complete_case_max_abs_bias": 0.015446665022402961,
+    "coverage_min": 0.156,
+    "coverage_mean": 0.6978048780487804,
+    "realized_extra_mean": 0.495
+  },
+  {
+    "dataset": "wine",
+    "environment": "correlated",
+    "method": "geometric",
+    "n": 54,
+    "q": [
+      0.34250803136807495,
+      0.11731175155163422,
+      0.040180217080290945
+    ],
+    "max_abs_bias": 0.0027308379032387037,
+    "max_rmse": 0.08588019849714487,
+    "max_exact_sd": 0.09050966329455863,
+    "complete_case_max_abs_bias": 0.017638031433383165,
+    "coverage_min": 0.036,
+    "coverage_mean": 0.7466341463414634,
+    "realized_extra_mean": 0.4981851851851852
+  },
+  {
+    "dataset": "wine",
+    "environment": "correlated",
+    "method": "exchangeable",
+    "n": 54,
+    "q": [
+      0.23636693749475235,
+      0.16713666435083624,
+      0.09649639815441143
+    ],
+    "max_abs_bias": 0.002379142786667265,
+    "max_rmse": 0.05652285641484011,
+    "max_exact_sd": 0.05765219742207089,
+    "complete_case_max_abs_bias": 0.016168618451912337,
+    "coverage_min": 0.092,
+    "coverage_mean": 0.720780487804878,
+    "realized_extra_mean": 0.4957037037037037
+  },
+  {
+    "dataset": "wine",
+    "environment": "correlated",
+    "method": "pilot",
+    "n": 54,
+    "q": [
+      0.20710678118654757,
+      0.14644660940672624,
+      0.14644660940672624
+    ],
+    "max_abs_bias": 0.004569729047029548,
+    "max_rmse": 0.0628632225319705,
+    "max_exact_sd": 0.06275915099560776,
+    "complete_case_max_abs_bias": 0.014752795532662228,
+    "coverage_min": 0.156,
+    "coverage_mean": 0.709170731707317,
+    "realized_extra_mean": 0.49662962962962964
+  },
+  {
+    "dataset": "wine",
+    "environment": "correlated",
+    "method": "oracle",
+    "n": 54,
+    "q": [
+      0.2752551285053188,
+      0.11237243574734053,
+      0.11237243574734053
+    ],
+    "max_abs_bias": 0.0030446587492646508,
+    "max_rmse": 0.05155189373974426,
+    "max_exact_sd": 0.052046524407468854,
+    "complete_case_max_abs_bias": 0.015847837953698034,
+    "coverage_min": 0.108,
+    "coverage_mean": 0.7282926829268294,
+    "realized_extra_mean": 0.49696296296296294
+  }
+]

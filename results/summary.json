@@ -1,0 +1,200 @@
+[
+  {
+    "dataset": "digits",
+    "environment": "exponential",
+    "exchangeable": {
+      "median_gain": 5.410145985830212,
+      "negative_count": 1,
+      "min_gain": -8.052972929284397,
+      "max_gain": 16.050280173136578
+    },
+    "pilot": {
+      "median_gain": 5.912900526611736,
+      "negative_count": 1,
+      "min_gain": -2.6838698627067448,
+      "max_gain": 13.019013990834749
+    },
+    "oracle": {
+      "median_gain": 8.489498665765405,
+      "negative_count": 0,
+      "min_gain": 6.371272863026856,
+      "max_gain": 16.632930349028584
+    }
+  },
+  {
+    "dataset": "digits",
+    "environment": "heterogeneous",
+    "exchangeable": {
+      "median_gain": -2.5468941623379093,
+      "negative_count": 6,
+      "min_gain": -13.512792096566484,
+      "max_gain": 8.392041725828292
+    },
+    "pilot": {
+      "median_gain": 3.215201710411686,
+      "negative_count": 1,
+      "min_gain": -5.111169618718536,
+      "max_gain": 7.784302516804608
+    },
+    "oracle": {
+      "median_gain": 4.556915823547319,
+      "negative_count": 0,
+      "min_gain": 0.416068104238676,
+      "max_gain": 8.947387228916892
+    }
+  },
+  {
+    "dataset": "digits",
+    "environment": "correlated",
+    "exchangeable": {
+      "median_gain": -4.9990866401502405,
+      "negative_count": 7,
+      "min_gain": -13.434340583988691,
+      "max_gain": 3.1805917869571987
+    },
+    "pilot": {
+      "median_gain": 3.7330289858365617,
+      "negative_count": 1,
+      "min_gain": -0.15813040760888075,
+      "max_gain": 6.700456168193969
+    },
+    "oracle": {
+      "median_gain": 4.628042057499732,
+      "negative_count": 0,
+      "min_gain": 0.9318165002891288,
+      "max_gain": 8.855443181458833
+    }
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "exponential",
+    "exchangeable": {
+      "median_gain": 9.101351606585762,
+      "negative_count": 4,
+      "min_gain": -34.700000039172394,
+      "max_gain": 26.623709534860474
+    },
+    "pilot": {
+      "median_gain": 4.071097162159148,
+      "negative_count": 4,
+      "min_gain": -29.266000871249908,
+      "max_gain": 17.8300954891633
+    },
+    "oracle": {
+      "median_gain": 11.817323860995183,
+      "negative_count": 0,
+      "min_gain": 0.0,
+      "max_gain": 31.11960207650585
+    }
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "heterogeneous",
+    "exchangeable": {
+      "median_gain": -4.981196967141887,
+      "negative_count": 6,
+      "min_gain": -31.77930417279804,
+      "max_gain": 15.358168335987921
+    },
+    "pilot": {
+      "median_gain": 0.5051051960141661,
+      "negative_count": 4,
+      "min_gain": -20.829037686547625,
+      "max_gain": 17.830102644338318
+    },
+    "oracle": {
+      "median_gain": 3.398066787023596,
+      "negative_count": 0,
+      "min_gain": -4.440892098500626e-14,
+      "max_gain": 24.502964531087933
+    }
+  },
+  {
+    "dataset": "breast_cancer",
+    "environment": "correlated",
+    "exchangeable": {
+      "median_gain": -15.92825180098625,
+      "negative_count": 9,
+      "min_gain": -58.061932430224374,
+      "max_gain": 16.111385139878532
+    },
+    "pilot": {
+      "median_gain": -2.4045940790178966,
+      "negative_count": 6,
+      "min_gain": -23.254758686441136,
+      "max_gain": 10.039307980119949
+    },
+    "oracle": {
+      "median_gain": 1.5318061163185848,
+      "negative_count": 0,
+      "min_gain": 0.0,
+      "max_gain": 17.49655325571635
+    }
+  },
+  {
+    "dataset": "wine",
+    "environment": "exponential",
+    "exchangeable": {
+      "median_gain": -2.579614588940232,
+      "negative_count": 5,
+      "min_gain": -87.26162201408218,
+      "max_gain": 20.877493063471253
+    },
+    "pilot": {
+      "median_gain": -2.220446049250313e-14,
+      "negative_count": 2,
+      "min_gain": -25.828404688424577,
+      "max_gain": 7.587337980119457e-07
+    },
+    "oracle": {
+      "median_gain": 15.581711965623274,
+      "negative_count": 0,
+      "min_gain": 0.0,
+      "max_gain": 39.19191919191919
+    }
+  },
+  {
+    "dataset": "wine",
+    "environment": "heterogeneous",
+    "exchangeable": {
+      "median_gain": -0.20644160727412708,
+      "negative_count": 5,
+      "min_gain": -87.26162201408218,
+      "max_gain": 35.38579713398357
+    },
+    "pilot": {
+      "median_gain": 3.974279350060783e-07,
+      "negative_count": 1,
+      "min_gain": -1920.4040404040406,
+      "max_gain": 17.8300954891633
+    },
+    "oracle": {
+      "median_gain": 13.20223237785449,
+      "negative_count": 0,
+      "min_gain": -1.3069405335741635e-06,
+      "max_gain": 79.18367346938776
+    }
+  },
+  {
+    "dataset": "wine",
+    "environment": "correlated",
+    "exchangeable": {
+      "median_gain": -25.93791244004928,
+      "negative_count": 6,
+      "min_gain": -87.26162201408218,
+      "max_gain": 35.38579713398357
+    },
+    "pilot": {
+      "median_gain": 1.0165302718198377,
+      "negative_count": 3,
+      "min_gain": -16.56854249492381,
+      "max_gain": 23.431457505076214
+    },
+    "oracle": {
+      "median_gain": 3.431457505076202,
+      "negative_count": 0,
+      "min_gain": -7.454703521148076e-10,
+      "max_gain": 47.34013673567744
+    }
+  }
+]

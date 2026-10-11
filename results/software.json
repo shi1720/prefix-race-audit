@@ -1,0 +1,487 @@
+{
+  "races": 120,
+  "policy_checks": 4920,
+  "timing": [
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0028904579999999847
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006123541999999871
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008005791999999845
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.003468875000000038
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006257417000000043
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008944583000000117
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0035377919999999285
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.004623207999999934
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008572250000000059
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0029069580000000705
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006004625000000097
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.010960290999999955
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002856541999999962
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005295958000000045
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008992125000000017
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0020605410000000823
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.0058650419999999315
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008036875000000165
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002281291000000074
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005893583999999841
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.010042667000000005
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002920374999999975
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005590457999999909
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008935708000000098
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0029487500000000555
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.0063251249999998205
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008698042000000017
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002811249999999932
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005918749999999973
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008884083000000098
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0032797080000002143
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006925250000000105
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.0094749999999999
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0024738749999999587
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.00804429200000012
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008938415999999894
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.004096875000000111
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.007865999999999929
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008429666999999919
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.006710290999999868
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005204624999999963
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.011528334000000084
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0018911249999999935
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.004906084000000144
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.009074792000000054
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002814249999999907
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.0002808330000001469
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.007895458000000133
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.001991749999999959
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.003364541000000054
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.00863504100000001
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0028838329999998358
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.008364166999999867
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.011365792000000097
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0030535000000000423
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.007278708000000078
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.009505708000000057
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0028908749999998484
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.0047895420000001465
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008440459000000011
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.00606470800000003
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.004581000000000168
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.00880070799999988
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.004731625000000017
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005444667000000125
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.010513624999999971
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002884708000000069
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.0060339580000001725
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008662125000000076
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002429124999999921
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006978166000000119
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.0095834159999999
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.003010834000000351
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006534542000000254
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.01109145800000011
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 8.541000000139576e-06
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.005948749999999947
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.00827720799999998
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.002733999999999792
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.0050233340000001014
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.00893016599999985
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.003600207999999938
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006772917000000156
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008978125000000059
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.003015291999999725
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.009469707999999688
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.00756116699999998
+    },
+    {
+      "depth": 1,
+      "post_response_wait_seconds": 0.0
+    },
+    {
+      "depth": 2,
+      "post_response_wait_seconds": 0.0027239999999997266
+    },
+    {
+      "depth": 3,
+      "post_response_wait_seconds": 0.006900625000000105
+    },
+    {
+      "depth": 4,
+      "post_response_wait_seconds": 0.008860250000000125
+    }
+  ],
+  "delay_model": "engineered asyncio sleeps, not measured provider inference"
+}

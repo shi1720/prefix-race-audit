@@ -1,0 +1,146 @@
+[
+  {
+    "m": 4,
+    "q_exchangeable": [
+      0.585786437626905,
+      0.41421356237309503
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.4714045207910316,
+    "paired_opt_variance": 0.5,
+    "paired_wrong_variance": 0.7071067811865475,
+    "wrong_design_ratio": 1.414213562373095,
+    "optimal_risk_ratio": 1.0606601717798214
+  },
+  {
+    "m": 6,
+    "q_exchangeable": [
+      0.6666666666666665,
+      0.33333333333333326
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.26666666666666683,
+    "paired_opt_variance": 0.3333333333333333,
+    "paired_wrong_variance": 0.666666666666667,
+    "wrong_design_ratio": 2.000000000000001,
+    "optimal_risk_ratio": 1.2499999999999991
+  },
+  {
+    "m": 8,
+    "q_exchangeable": [
+      0.7101020514433644,
+      0.2898979485566356
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.1749635530559413,
+    "paired_opt_variance": 0.25,
+    "paired_wrong_variance": 0.6123724356957946,
+    "wrong_design_ratio": 2.4494897427831783,
+    "optimal_risk_ratio": 1.4288690166235205
+  },
+  {
+    "m": 16,
+    "q_exchangeable": [
+      0.7891032779404661,
+      0.21089672205953397
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.06236095644623234,
+    "paired_opt_variance": 0.125,
+    "paired_wrong_variance": 0.4677071733467426,
+    "wrong_design_ratio": 3.741657386773941,
+    "optimal_risk_ratio": 2.0044593143431837
+  },
+  {
+    "m": 32,
+    "q_exchangeable": [
+      0.8456129112051152,
+      0.15438708879488489
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.022085586996176052,
+    "paired_opt_variance": 0.0625,
+    "paired_wrong_variance": 0.34232659844072877,
+    "wrong_design_ratio": 5.47722557505166,
+    "optimal_risk_ratio": 2.8298998804433584
+  },
+  {
+    "m": 64,
+    "q_exchangeable": [
+      0.8873113463276752,
+      0.11268865367232477
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.007811515748027593,
+    "paired_opt_variance": 0.03125,
+    "paired_wrong_variance": 0.2460627460628691,
+    "wrong_design_ratio": 7.874007874011811,
+    "optimal_risk_ratio": 4.000504000505999
+  },
+  {
+    "m": 128,
+    "q_exchangeable": [
+      0.9182002227174253,
+      0.08179977728257458
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.0027620502362996624,
+    "paired_opt_variance": 0.015625,
+    "paired_wrong_variance": 0.17539019000502853,
+    "wrong_design_ratio": 11.224972160321826,
+    "optimal_risk_ratio": 5.657029620479648
+  },
+  {
+    "m": 256,
+    "q_exchangeable": [
+      0.9409589824090544,
+      0.05904101759094556
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.000976554990840027,
+    "paired_opt_variance": 0.0078125,
+    "paired_wrong_variance": 0.12451076133210334,
+    "wrong_design_ratio": 15.937377450509228,
+    "optimal_risk_ratio": 8.000061515511515
+  },
+  {
+    "m": 1024,
+    "q_exchangeable": [
+      0.969668232393446,
+      0.030331767606553924
+    ],
+    "q_paired": [
+      0.5,
+      0.5
+    ],
+    "exchangeable_opt_variance": 0.00012207025417847158,
+    "paired_opt_variance": 0.001953125,
+    "paired_wrong_variance": 0.06243893501228821,
+    "wrong_design_ratio": 31.968734726291565,
+    "optimal_risk_ratio": 16.000007644323027
+  }
+]
